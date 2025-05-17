@@ -1,0 +1,4 @@
+.idea
+.terraform
+sample.txt
+sensitive_sample.txt
